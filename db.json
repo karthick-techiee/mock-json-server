@@ -1,15 +1,74 @@
-{   "users":[      
-    {
-         "id":1,
-         "username":"karthick",
-         "email":"kr@sample.com"
-      
-    }
-   
-],
-   "companies":[      {
-         "id":2,
-         "name":"Unsolved Tech Solutions",
-         "KPI":10
-      
+{
+    "users": [
+      {
+        "id": 0,
+        "name": "Caitlin Pugh",
+        "username": "Patrica 846",
+        "email": "patricaholland@isotrack.com",
+        "mobile": "(881) 534-3965"
+      },
+      {
+        "id": 1,
+        "name": "Shelia Carlson",
+        "username": "Daugherty 964",
+        "email": "daughertybarrera@isotrack.com",
+        "mobile": "(942) 458-3157"
+      },
+      {
+        "id": 2,
+        "name": "Sims Joyce",
+        "username": "Barron 960",
+        "email": "trinabarron@isotrack.com",
+        "mobile": "(975) 577-3550"
+      },
+      {
+        "id": 3,
+        "name": "Melisa Whitehead",
+        "username": "Arnold 953",
+        "email": "jessiearnold@isotrack.com",
+        "mobile": "(864) 502-3951"
+      },
+      {
+        "id": 4,
+        "name": "Liliana Carver",
+        "username": "Downs 623",
+        "email": "colleendowns@isotrack.com",
+        "mobile": "(978) 560-2359"
+      },
+      {
+        "id": 5,
+        "name": "Vivian Foster",
+        "username": "Simon 530",
+        "email": "clarkesimon@isotrack.com",
+        "mobile": "(841) 438-2674"
+      },
+      {
+        "id": 6,
+        "name": "Leta Sullivan",
+        "username": "Hahn 361",
+        "email": "pamelahahn@isotrack.com",
+        "mobile": "(921) 452-3136"
+      },
+      {
+        "id": 7,
+        "name": "Ina Foreman",
+        "username": "Meredith 208",
+        "email": "meredithhenson@isotrack.com",
+        "mobile": "(814) 448-3910"
+      },
+      {
+        "id": 8,
+        "name": "Crane Valenzuela",
+        "username": "Hopkins 125",
+        "email": "corahopkins@isotrack.com",
+        "mobile": "(969) 597-2568"
+      },
+      {
+        "id": 9,
+        "name": "Bolton Fuentes",
+        "username": "Waller 647",
+        "email": "wallerlopez@isotrack.com",
+        "mobile": "(984) 438-2761"
+      }
+    ]
 }
